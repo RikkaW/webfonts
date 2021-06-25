@@ -2,14 +2,20 @@
 
 ## NotoSansCJK SC VF
 
-NotoSansCJK SC (variable font).
+NotoSansCJK Simplified Chinese (variable font).
 
-Download:
-
-https://cdn.jsdelivr.net/gh/RikkaW/webfonts@1/noto-sans-cjk-sc-vf/NotoSansCJK-SC-VF.css
-
-CSS rules to specify families:
+https://cdn.jsdelivr.net/gh/RikkaW/webfonts@2/css/NotoSansCJK-SC-VF.css
 
 ```
 font-family: 'Noto Sans SC', sans-serif;
+```
+
+## NotoSansCJK TC VF
+
+NotoSansCJK Traditional Chinese (variable font).
+
+https://cdn.jsdelivr.net/gh/RikkaW/webfonts@2/css/NotoSansCJK-TC-VF.css
+
+```
+font-family: 'Noto Sans TC', sans-serif;
 ```
